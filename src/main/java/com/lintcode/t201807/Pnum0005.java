@@ -13,11 +13,11 @@ package com.lintcode.t201807;
  * @author hansen.wang
  * @date 2018年7月3日 下午3:19:32
  */
-public class Pnum5 {
+public class Pnum0005 {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-        Pnum5 p = new Pnum5();
+        Pnum0005 p = new Pnum0005();
         int[] nums = {9,3,2,4,8};
         int k = 3;
         System.out.println(p.kthLargestElement(k, nums));

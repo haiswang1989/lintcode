@@ -12,7 +12,7 @@ package com.lintcode.t201807;
  * @author hansen.wang
  * @date 2018年7月3日 下午2:50:12
  */
-public class Pnum3 {
+public class Pnum0003 {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub

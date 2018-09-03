@@ -13,7 +13,7 @@ package com.lintcode.t201807;
  * @author hansen.wang
  * @date 2018年7月2日 上午9:59:15
  */
-public class Pnum2 {
+public class Pnum0002 {
 
     public static void main(String[] args) {
         System.out.println(trailingZeros(25));

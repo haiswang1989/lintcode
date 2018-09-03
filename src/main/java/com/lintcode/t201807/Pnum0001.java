@@ -12,7 +12,7 @@ package com.lintcode.t201807;
  * @author hansen.wang
  * @date 2018年7月2日 上午9:46:56
  */
-public class Pnum1 {
+public class Pnum0001 {
 
     public static void main(String[] args) {
         int a = 3; 

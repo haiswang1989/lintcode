@@ -15,12 +15,12 @@ import java.util.Arrays;
  * @author hansen.wang
  * @date 2018年7月3日 下午3:42:32
  */
-public class Pnum6 {
+public class Pnum0006 {
     
     public static void main(String[] args) {
         int[] A = {1,2,3,4};
         int[] B = {2,4,5,6};
-        Pnum6 p = new Pnum6();
+        Pnum0006 p = new Pnum0006();
         System.out.println(Arrays.toString(p.mergeSortedArray(A, B)));
     }
     
