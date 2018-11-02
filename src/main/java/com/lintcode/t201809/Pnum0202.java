@@ -26,7 +26,7 @@ import com.lintcode.common.SegmentTreeNode;
  * @author hansen.wang
  * @date 2018年9月3日 上午9:38:25
  */
-public class Pnum202 {
+public class Pnum0202 {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
