@@ -11,7 +11,7 @@ package com.pointoffer.no51to60;
  * @author hansen.wang
  * @date 2018年11月2日 下午3:11:44
  */
-public class Pnum0052 {
+public class Pnum0052_ {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub

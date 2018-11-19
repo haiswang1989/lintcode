@@ -13,8 +13,6 @@ package com.pointoffer.no31to40;
  * 对于%75的数据,size<=10^5
  * 对于%100的数据,size<=2*10^5
  * 
- * 
- * 
  * <p>Description:</p>
  * @author hansen.wang
  * @date 2018年11月1日 上午10:04:30
@@ -22,8 +20,7 @@ package com.pointoffer.no31to40;
 public class Pnum0035_ {
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
-
+        
     }
     
     public int InversePairs(int [] array) {
